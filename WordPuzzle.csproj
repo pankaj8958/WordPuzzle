@@ -285,10 +285,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\sprite\DropObjectDestroyer.cs" />
-    <Compile Include="Assets\sprite\DropObjectScript.cs" />
-    <Compile Include="Assets\sprite\MainDriver.cs" />
-    <Compile Include="Assets\sprite\ObjectGenerator.cs" />
+    <Compile Include="Assets\script\DropObjectDestroyer.cs" />
+    <Compile Include="Assets\script\DropObjectScript.cs" />
+    <Compile Include="Assets\script\MainDriver.cs" />
+    <Compile Include="Assets\script\ObjectGenerator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
